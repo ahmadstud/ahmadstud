@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Backend & Systems Developer building things that scale, run fast, and don't fall over</h3>
+<h1 align="center">Hi there, I'm AHMAD DANIAL BN MOHAMMAD AZMIL 👋</h1>
+<h3 align="center">I am Full-Stack Developer building things that scale, run fast, and don't fall over</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Designing+clean+APIs;Optimizing+for+performance;Always+learning+something+new" alt="Typing SVG" />
@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[technology/topic]**
+- 🔭 Currently working on: **KKDW**
+- 🌱 Currently learning: **Laravel**
 - 💬 Ask me about: **[systems design, databases, distributed systems, etc.]**
 - ⚡ Fun fact: **[something fun about you]**
 
